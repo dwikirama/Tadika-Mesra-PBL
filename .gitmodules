@@ -10,3 +10,6 @@
 [submodule "PBL0401"]
 	path = PBL0401
 	url = https://github.com/dwikirama/PBL0401.git
+[submodule "PBL0402"]
+	path = PBL0402
+	url = https://github.com/dwikirama/PBL0402.git
